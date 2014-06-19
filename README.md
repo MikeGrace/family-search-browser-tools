@@ -3,6 +3,11 @@ Family Search Browser Tools
 
 Simple tools to help enhance functionality of FamilySearch.org
 
+Get The Bookmarklet!
+--------------------
+
+Get it at http://mikegrace.s3.amazonaws.com/sandbox/family-search-tools/bookmarklet.html
+
 Functionality Added
 ------------------
 
