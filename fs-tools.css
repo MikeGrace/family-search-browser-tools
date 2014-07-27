@@ -1,14 +1,16 @@
 #fs-tools-spreadsheet-output {
 	display: none;
-	height: 200px;
-	background-color: green;
+	height: 210px;
+	background-color: #999;
 	-moz-box-shadow: inset 0 0 20px #000000;
 	-webkit-box-shadow: inset 0 0 20px #000000;
 	box-shadow: inset 0 0 20px #000000;
+	text-align: center;
 }
 
 #fs-tools-spreadsheet-output textarea {
 	height: 180px;
+	margin: 10px 0;
 }
 
 #fs-tools-done {
